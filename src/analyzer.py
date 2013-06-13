@@ -60,7 +60,7 @@ class Campaign:
         f.write('end time:' + str(self.endtime)+'\n')
         f.write('involvers:' + str(len(self.involver)) + '\n')
         for involver in self.involver:
-            f.write(involver+' ')
+            f.write(involver+'|')
         f.write('\n')
         f.write('total damage received:' + str(self.damagereceived)+ '\n' )
         f.write('total damage done:' + str(self.damagedone) + '\n' )
@@ -108,7 +108,7 @@ def process_combat_msg(line,campaign):
     hit_pattern += pattern['any']
     hit_pattern += pattern['enemy']
     match = re.search(hit_pattern,line)
-    if match :
+    if match:
         point = match.group(1)
         dirc = match.group(2)
         enemy = match.group(3)
@@ -116,25 +116,23 @@ def process_combat_msg(line,campaign):
             campaign.damage_receive(enemy,int(point))
         elif dirc.decode('utf-8') == toword:
             campaign.damage_to(enemy,int(point))
-#The following code is dirty hack to deal with the god damn non unicode encoding.
-#TODO: improve it.
-    else :
-        message_pattern = u"\\) ([\\s\\S]*)\n"
-        match = re.search(message_pattern,line)
+    else:
+        line = line.decode('utf-8')
+        miss_pattern = u"\\) ([\\s\\S]*)"
+        miss_pattern += missword
+        miss_pattern += u"([\\s\\S]*)\n$"
+        match = re.search(miss_pattern,line)
         if match :
-            message = match.group(1)
-            message = message.decode('utf-8')
-            miss_pattern = u"^([\\s\\S]*)"
-            miss_pattern += missword
-            miss_pattern += u"([\\s\\S]*)"
-            match = re.search(miss_pattern,message)
-            if match :
-                gunner = match.group(1)
-                target = match.group(2)
-                if target == youword:
-                    campaign.miss_by(gunner.encode('utf-8'))
-                else:
-                    campaign.miss_to(target.encode('utf-8'))
+            gunner = match.group(1)
+            target = match.group(2)
+            if target == youword:
+                campaign.miss_by(gunner.encode('utf-8'))
+            else:
+                suffix_pattern = u"^([\\s\\S]*) - ([\\s\\S]*)$"
+                match = re.search(suffix_pattern,target)
+                if match:
+                    target = match.group(1)
+                campaign.miss_to(target.encode('utf-8'))
 
 def process_question_msg(line,campaign):
     pass

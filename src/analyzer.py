@@ -3,26 +3,26 @@
 
 import sys
 import re
-from datetime import date
+from datetime import datetime
 
-logname = "../data/20130424_064954.txt"
+logname = "../data/20130527_095916.txt"
 resultname = "result.txt"
 
-pattern = { 'date': r'\d{4}\.\d\d\.\d\d',
-            'time': r'\d\d\:\d\d\:\d\d',
-            'type': r'\((.+)\)'}
+type_pattern = r'\((.+)\)'
 
 fromword = u"来自"
 toword = u"对"
 missword = u'完全没有打中'
 youword = u'你'
 
-#newcampaign = true
+#newcampaign = True
 
 #combats = []
 
 class Campaign:
     def __init__(self):
+        self.starttime = None
+        self.endtime = None
         self.involver = ['you']
         self.damagedone = 0
         self.damagereceived = 0
@@ -54,17 +54,50 @@ class Campaign:
         if enemy not in self.involver:
             self.involver.append(enemy)
 
-def process_none_msg(line,current_campaign):
+    def write_to_file(self, filename):
+        f = open(filename,'w')
+        f.write('start time:' + str(self.starttime)+'\n')
+        f.write('end time:' + str(self.endtime)+'\n')
+        f.write('involvers:' + str(len(self.involver)) + '\n')
+        for involver in self.involver:
+            f.write(involver+' ')
+        f.write('\n')
+        f.write('total damage received:' + str(self.damagereceived)+ '\n' )
+        f.write('total damage done:' + str(self.damagedone) + '\n' )
+        f.write('total hit:' + str(self.hitdone) + '\n')
+        f.write('hits rate:' + str(self.hitdone*100/(self.hitdone+self.miss)) + '%\n')
+        f.write('average damage:' + str(self.damagedone/self.hitdone) + '\n')
+        f.write('total miss:' + str(self.miss) + '\n' )
+        f.write('total missed:' + str(self.missed) + '\n')
+        f.close()
+
+def get_datetime(line):
+    datetime_pattern = r'(\d{4})\.(\d\d).(\d\d) (\d\d):(\d\d):(\d\d)'
+    match = re.search(datetime_pattern,line)
+    if match:
+        year = int(match.group(1))
+        month = int(match.group(2))
+        day = int(match.group(3))
+        hour = int(match.group(4))
+        min = int(match.group(5))
+        sec = int(match.group(6))
+        dt = datetime(year,month,day,hour,min,sec)
+        return dt
+    else:
+        return None
+
+def process_none_msg(line,campaign):
 #    newcombat = true
     pass
 
-def process_notify_msg(line,current_campaign):
+def process_notify_msg(line,campaign):
     pass
 
-def process_combat_msg(line,current_campaign):
-#    if newcombat :
-#        currentcombat = 
-#    newcombat = false
+def process_combat_msg(line,campaign): 
+    if not campaign.starttime:
+        campaign.starttime = get_datetime(line)
+    campaign.endtime = get_datetime(line)
+
     pattern = { 'point' : r"<b>(\d+)<\/b>",
                 'dirc' : r"size=10>(.+)<\/font>",
                 'enemy' : r"f{8}>([\s\S]*)<\/b>",
@@ -80,9 +113,9 @@ def process_combat_msg(line,current_campaign):
         dirc = match.group(2)
         enemy = match.group(3)
         if dirc.decode('utf-8') == fromword:
-            current_campaign.damage_receive(enemy,int(point))
+            campaign.damage_receive(enemy,int(point))
         elif dirc.decode('utf-8') == toword:
-            current_campaign.damage_to(enemy,int(point))
+            campaign.damage_to(enemy,int(point))
 #The following code is dirty hack to deal with the god damn non unicode encoding.
 #TODO: improve it.
     else :
@@ -99,11 +132,11 @@ def process_combat_msg(line,current_campaign):
                 gunner = match.group(1)
                 target = match.group(2)
                 if target == youword:
-                    current_campaign.miss_by(gunner.encode('utf-8'))
+                    campaign.miss_by(gunner.encode('utf-8'))
                 else:
-                    current_campaign.miss_to(target.encode('utf-8'))
+                    campaign.miss_to(target.encode('utf-8'))
 
-def process_question_msg(line,current_campaign):
+def process_question_msg(line,campaign):
     pass
 
 process_function = { 'None': process_none_msg,
@@ -114,19 +147,10 @@ process_function = { 'None': process_none_msg,
 current_campaign = Campaign()
 
 for line in file(logname):
-    match = re.search(pattern['type'],line)
+    match = re.search(type_pattern,line)
     if match :
         type = match.group(1)
         if type in process_function:
             process_function[type](line,current_campaign)
 
-f = open(resultname,'w')
-f.write('involvers:' + str(len(current_campaign.involver)) + '\n')
-for involver in current_campaign.involver:
-    f.write(involver+' ')
-f.write('\n')
-f.write('total damage received:' + str(current_campaign.damagereceived)+ '\n' )
-f.write('total damage done:' + str(current_campaign.damagedone) + '\n' )
-f.write('total miss:' + str(current_campaign.miss) + '\n' )
-f.write('total missed:' + str(current_campaign.missed) + '\n')
-f.close()
+current_campaign.write_to_file(resultname)

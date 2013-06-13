@@ -1,0 +1,400 @@
+------------------------------------------------------------
+  游戏记录
+  进程开始: 2013.04.21 13:42:41
+------------------------------------------------------------
+[ 2013.04.21 05:44:26 ] (None) 正在从 LGK-VP V - 卫星 3 - 实力派 组装车间 离站进入 LGK-VP 恒星系。
+[ 2013.04.21 05:46:01 ] (None) 从LGK-VP跳到E-C0SR
+[ 2013.04.21 05:46:10 ] (notify) 正在朝向VTGN-U
+[ 2013.04.21 05:46:23 ] (notify) 没有发现扫描信号
+[ 2013.04.21 05:47:04 ] (None) 从E-C0SR跳到VTGN-U
+[ 2013.04.21 05:47:04 ] (notify) 进程切换已在进行中。
+[ 2013.04.21 05:47:15 ] (notify) 正在朝向X1E-OQ
+[ 2013.04.21 05:48:27 ] (None) 从VTGN-U跳到0Y1-M7
+[ 2013.04.21 05:48:41 ] (notify) 环绕VTGN-U（5000m）
+[ 2013.04.21 05:49:56 ] (notify) 舰船正在停止
+[ 2013.04.21 05:50:36 ] (None) 从0Y1-M7跳到VTGN-U
+[ 2013.04.21 05:51:25 ] (None) 从VTGN-U跳到X1E-OQ
+[ 2013.04.21 05:51:34 ] (notify) 正在朝向Q-Q2S6
+[ 2013.04.21 05:52:28 ] (None) 从X1E-OQ跳到Q-Q2S6
+[ 2013.04.21 05:52:42 ] (notify) 正在朝向32-GI9
+[ 2013.04.21 05:52:43 ] (notify) 你正处于隐形状态，其所造成的干扰阻止你的系统在此时正常运作。
+[ 2013.04.21 05:53:02 ] (notify) 舰船正在停止
+[ 2013.04.21 05:53:08 ] (notify) 舰船正在停止
+[ 2013.04.21 05:53:27 ] (notify) 飞船跃迁时无法执行该操作。
+[ 2013.04.21 05:54:09 ] (None) 从Q-Q2S6跳到32-GI9
+[ 2013.04.21 05:54:26 ] (notify) 环绕Q-Q2S6（5000m）
+[ 2013.04.21 05:55:02 ] (notify) 舰船正在停止
+[ 2013.04.21 05:55:11 ] (notify) 舰船正在停止
+[ 2013.04.21 05:55:21 ] (notify) 扫描器正在重新校对，请稍等。
+[ 2013.04.21 05:55:43 ] (notify) 正在接近Q-Q2S6
+[ 2013.04.21 05:56:00 ] (None) 从32-GI9跳到Q-Q2S6
+[ 2013.04.21 05:56:02 ] (notify) 你无法再拿到该物品。
+[ 2013.04.21 05:56:48 ] (None) 从Q-Q2S6跳到WHG2-7
+[ 2013.04.21 05:57:01 ] (notify) 环绕Q-Q2S6（5000m）
+[ 2013.04.21 05:57:30 ] (notify) 正在将扫描探针载入扫描探针发射器，预计于10.00秒后完成。
+[ 2013.04.21 05:57:56 ] (notify) 你正处于跃迁状态，其所产生的干扰阻止了你的系统正常运作。
+[ 2013.04.21 05:57:59 ] (hint) 姐妹会延伸探针发射器已在使用中
+[ 2013.04.21 05:58:00 ] (notify) 姐妹会延伸探针发射器正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为1秒）。
+[ 2013.04.21 05:58:00 ] (notify) 姐妹会延伸探针发射器正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为1秒）。
+[ 2013.04.21 05:58:01 ] (notify) 正在尝试关闭此装备。请等待，直到该操作完成。
+[ 2013.04.21 05:58:02 ] (hint) 姐妹会延伸探针发射器已在使用中
+[ 2013.04.21 05:58:02 ] (notify) 姐妹会延伸探针发射器正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为1秒）。
+[ 2013.04.21 05:58:03 ] (notify) 姐妹会延伸探针发射器正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为1秒）。
+[ 2013.04.21 05:58:04 ] (notify) 速度变为393 m/s
+[ 2013.04.21 05:58:04 ] (notify) 正在尝试关闭此装备。请等待，直到该操作完成。
+[ 2013.04.21 05:58:05 ] (hint) 姐妹会延伸探针发射器已在使用中
+[ 2013.04.21 05:59:15 ] (notify) 没有发现扫描信号
+[ 2013.04.21 05:59:36 ] (notify) 没有发现扫描信号
+[ 2013.04.21 06:01:57 ] (notify) 飞船跃迁时无法执行该操作。
+[ 2013.04.21 06:02:04 ] (notify) 正在将扫描探针载入扫描探针发射器，预计于10.00秒后完成。
+[ 2013.04.21 06:02:22 ] (None) 从WHG2-7跳到Q-Q2S6
+[ 2013.04.21 06:02:22 ] (notify) 进程切换已在进行中。
+[ 2013.04.21 06:03:13 ] (None) 从Q-Q2S6跳到X1E-OQ
+[ 2013.04.21 06:03:13 ] (notify) 进程切换已在进行中。
+[ 2013.04.21 06:04:04 ] (None) 从X1E-OQ跳到LGK-VP
+[ 2013.04.21 06:04:51 ] (None) 从LGK-VP跳到MB4D-4
+[ 2013.04.21 06:05:22 ] (notify) 没有发现扫描信号
+[ 2013.04.21 06:05:48 ] (None) 从MB4D-4跳到DSS-EZ
+[ 2013.04.21 06:05:59 ] (notify) 正在朝向3GD6-8
+[ 2013.04.21 06:06:24 ] (notify) 舰船正在停止
+[ 2013.04.21 06:06:30 ] (notify) 舰船正在停止
+[ 2013.04.21 06:06:37 ] (notify) 舰船正在停止
+[ 2013.04.21 06:06:53 ] (notify) 正在朝向3GD6-8
+[ 2013.04.21 06:06:55 ] (notify) 正在将扫描探针载入扫描探针发射器，预计于10.00秒后完成。
+[ 2013.04.21 06:07:03 ] (notify) 舰船正在停止
+[ 2013.04.21 06:07:12 ] (notify) 舰船正在停止
+[ 2013.04.21 06:07:22 ] (notify) 舰船正在停止
+[ 2013.04.21 06:07:30 ] (notify) 正在朝向3GD6-8
+[ 2013.04.21 06:07:32 ] (hint) 姐妹会延伸探针发射器已在使用中
+[ 2013.04.21 06:07:32 ] (notify) 姐妹会延伸探针发射器正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为1秒）。
+[ 2013.04.21 06:07:39 ] (notify) 隐形系统无法启动，因为你的飞船与附近的扫描探针相距不到2000米。
+[ 2013.04.21 06:07:40 ] (notify) 隐形系统无法启动，因为你的飞船与附近的扫描探针相距不到2000米。
+[ 2013.04.21 06:12:06 ] (notify) 飞船跃迁时无法执行该操作。
+[ 2013.04.21 06:12:42 ] (None) 从DSS-EZ跳到3GD6-8
+[ 2013.04.21 06:12:56 ] (notify) 正在将扫描探针载入扫描探针发射器，预计于10.00秒后完成。
+[ 2013.04.21 06:13:44 ] (notify) 正在将扫描探针载入扫描探针发射器，预计于10.00秒后完成。
+[ 2013.04.21 06:14:19 ] (notify) 正在将扫描探针载入扫描探针发射器，预计于10.00秒后完成。
+[ 2013.04.21 06:14:41 ] (notify) 姐妹会延伸探针发射器正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为1秒）。
+[ 2013.04.21 06:14:41 ] (notify) 姐妹会延伸探针发射器正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为1秒）。
+[ 2013.04.21 06:14:42 ] (notify) 正在尝试关闭此装备。请等待，直到该操作完成。
+[ 2013.04.21 06:14:42 ] (notify) 姐妹会延伸探针发射器正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为1秒）。
+[ 2013.04.21 06:15:37 ] (notify) 舰船正在停止
+[ 2013.04.21 06:16:32 ] (notify) 舰船正在停止
+[ 2013.04.21 06:24:50 ] (notify) 正在朝向3GD6-8 III - RAC光明顶
+[ 2013.04.21 06:25:09 ] (notify) 请求在3GD6-8 III - RAC光明顶空间站停靠
+[ 2013.04.21 06:25:09 ] (notify) 正将航向设置为停靠区域
+[ 2013.04.21 06:25:15 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.04.21 06:26:20 ] (notify) 与钱多多3085的交易已完成。
+[ 2013.04.21 06:26:29 ] (None) 正在从 3GD6-8 III - RAC光明顶 离站进入 3GD6-8 恒星系。
+[ 2013.04.21 06:28:49 ] (notify) 舰船正在停止
+[ 2013.04.21 06:30:25 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:30:25 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:33:46 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:33:46 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:35:06 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:35:06 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:35:46 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:35:46 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:37:08 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:37:08 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:42:26 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:42:26 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:45:06 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:45:06 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:45:47 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:45:47 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:46:27 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:46:27 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:51:47 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:51:47 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:53:47 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:53:47 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:54:27 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:54:27 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:57:47 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 06:57:47 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:00:27 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:00:27 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:01:48 ] (notify) 目标已枯竭，气云采集器 II自动关闭。
+[ 2013.04.21 07:02:46 ] (notify) 请求在3GD6-8 III - RAC光明顶空间站停靠
+[ 2013.04.21 07:02:46 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.04.21 07:03:04 ] (None) 正在从 3GD6-8 III - RAC光明顶 离站进入 3GD6-8 恒星系。
+[ 2013.04.21 07:04:19 ] (notify) 飞船跃迁时无法执行该操作。
+[ 2013.04.21 07:05:09 ] (notify) 请求在3GD6-8 III - RAC光明顶空间站停靠
+[ 2013.04.21 07:05:10 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.04.21 07:05:39 ] (None) 正在从 3GD6-8 III - RAC光明顶 离站进入 3GD6-8 恒星系。
+[ 2013.04.21 07:08:09 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:08:09 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:10:09 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:10:09 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:10:49 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:10:49 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:12:49 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:12:49 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:14:11 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:14:11 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:14:50 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:14:50 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:15:29 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:15:29 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:18:10 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:18:10 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:18:50 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:18:50 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:19:30 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:19:30 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:20:10 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:20:10 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:22:50 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:22:50 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:24:50 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:24:50 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:25:30 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:25:30 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:26:50 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:26:50 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:27:30 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:27:30 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:28:50 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:28:50 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:29:30 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:29:30 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:31:30 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:31:30 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:32:10 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:32:10 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:32:51 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:32:51 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:33:30 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:33:30 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:34:51 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:34:51 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:38:51 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:38:51 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:39:31 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:39:31 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:40:51 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:40:51 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:42:11 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:42:11 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:44:51 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:44:51 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:45:31 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:45:31 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:46:12 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:46:12 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:49:32 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:49:32 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:51:32 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:51:32 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:53:32 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:53:32 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:59:32 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 07:59:32 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:00:12 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:00:12 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:03:32 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:03:32 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:04:12 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:04:12 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:05:32 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:05:32 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:06:14 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:06:14 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:07:33 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:07:33 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:11:33 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:11:33 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:13:33 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:13:33 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:16:53 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:16:53 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:18:54 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:18:54 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:21:33 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:21:33 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:22:53 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:22:53 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:23:33 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:23:33 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:24:14 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:24:14 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:24:54 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:24:54 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:25:35 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:25:35 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:27:15 ] (info) 你不能将一件物品置于其自身之中。
+[ 2013.04.21 08:27:39 ] (notify) 扫描器正在重新校对，请稍等。
+[ 2013.04.21 08:28:04 ] (notify) 扫描器正在重新校对，请稍等。
+[ 2013.04.21 08:28:12 ] (notify) 扫描器正在重新校对，请稍等。
+[ 2013.04.21 08:28:16 ] (notify) 扫描器正在重新校对，请稍等。
+[ 2013.04.21 08:28:54 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:28:54 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:29:05 ] (notify) 扫描器正在重新校对，请稍等。
+[ 2013.04.21 08:31:18 ] (notify) 请求在3GD6-8 III - RAC光明顶空间站停靠
+[ 2013.04.21 08:31:18 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.04.21 08:31:40 ] (None) 正在从 3GD6-8 III - RAC光明顶 离站进入 3GD6-8 恒星系。
+[ 2013.04.21 08:32:46 ] (notify) 正在朝向3GD6-8 III - RAC光明顶
+[ 2013.04.21 08:32:47 ] (notify) 正在朝向3GD6-8 III - RAC光明顶
+[ 2013.04.21 08:32:47 ] (notify) 请稍等...
+[ 2013.04.21 08:33:40 ] (notify) 请求在3GD6-8 III - RAC光明顶空间站停靠
+[ 2013.04.21 08:33:41 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.04.21 08:34:09 ] (None) 正在从 3GD6-8 III - RAC光明顶 离站进入 3GD6-8 恒星系。
+[ 2013.04.21 08:36:05 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:36:05 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:37:25 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:37:25 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:38:45 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:38:45 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:40:05 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:40:05 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:45:26 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:45:26 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:47:30 ] (notify) 请求在3GD6-8 III - RAC光明顶空间站停靠
+[ 2013.04.21 08:47:30 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.04.21 08:51:27 ] (None) 正在从 3GD6-8 III - RAC光明顶 离站进入 3GD6-8 恒星系。
+[ 2013.04.21 08:54:13 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:54:13 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:55:36 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:55:36 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:56:13 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:56:13 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:58:54 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:58:54 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:59:33 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 08:59:33 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:00:54 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:00:54 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:02:53 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:02:53 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:04:15 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:04:15 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:05:34 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:05:34 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:06:54 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:06:54 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:09:35 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:09:35 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:10:14 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:10:14 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:12:15 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:12:15 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:12:55 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:12:55 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:13:34 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:13:34 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:14:15 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:14:15 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:15:35 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:15:35 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:16:55 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:16:55 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:17:35 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:17:35 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:18:15 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:18:15 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:19:35 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:19:35 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:22:56 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:22:56 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:25:36 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:25:36 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:26:56 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:26:56 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:31:37 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:31:37 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:35:37 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:35:37 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:36:57 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:36:57 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:39:37 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:39:37 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:41:37 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:41:37 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:42:58 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:42:58 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:45:39 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:45:39 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:46:58 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:46:58 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:50:58 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:50:58 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:52:59 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:52:59 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:54:43 ] (notify) 舰船正在停止
+[ 2013.04.21 09:57:39 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:57:39 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:59:39 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 09:59:39 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:01:42 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:01:42 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:03:40 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:03:40 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:04:59 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:04:59 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:05:00 ] (notify) 目标已枯竭，气云采集器 II自动关闭。
+[ 2013.04.21 10:05:53 ] (notify) 请求在3GD6-8 III - RAC光明顶空间站停靠
+[ 2013.04.21 10:05:54 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.04.21 10:06:13 ] (None) 正在从 3GD6-8 III - RAC光明顶 离站进入 3GD6-8 恒星系。
+[ 2013.04.21 10:07:27 ] (notify) 飞船跃迁时无法执行该操作。
+[ 2013.04.21 10:08:19 ] (notify) 请求在3GD6-8 III - RAC光明顶空间站停靠
+[ 2013.04.21 10:08:19 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.04.21 10:10:51 ] (None) 正在从 3GD6-8 III - RAC光明顶 离站进入 3GD6-8 恒星系。
+[ 2013.04.21 10:11:07 ] (notify) 舰船正在停止
+[ 2013.04.21 10:12:34 ] (notify) 石灰丝胶溶质距离太远，无法对其使用气云采集器 II，目标必须在1,500米内。
+[ 2013.04.21 10:12:34 ] (notify) 石灰丝胶溶质距离太远，无法对其使用气云采集器 II，目标必须在1,500米内。
+[ 2013.04.21 10:12:34 ] (notify) 石灰丝胶溶质距离太远，无法对其使用气云采集器 II，目标必须在1,500米内。
+[ 2013.04.21 10:12:34 ] (notify) 石灰丝胶溶质距离太远，无法对其使用气云采集器 II，目标必须在1,500米内。
+[ 2013.04.21 10:12:34 ] (notify) 石灰丝胶溶质距离太远，无法对其使用气云采集器 II，目标必须在1,500米内。
+[ 2013.04.21 10:13:05 ] (notify) 舰船正在停止
+[ 2013.04.21 10:16:01 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:16:01 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:17:21 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:17:21 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:18:41 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:18:41 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:19:21 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:19:21 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:20:02 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:20:02 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:21:21 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:21:21 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:22:41 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:22:41 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:25:22 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:25:22 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:28:41 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:28:41 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:29:22 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:29:22 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:30:02 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:30:02 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:31:22 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:31:22 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:32:02 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:32:02 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:32:44 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:32:44 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:36:42 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:36:42 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:37:22 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:37:22 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:38:02 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:38:02 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:38:42 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:38:42 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:39:10 ] (notify) 扫描器正在重新校对，请稍等。
+[ 2013.04.21 10:40:02 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:40:02 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:40:42 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:40:42 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:41:23 ] (combat) <color=0xffcc0000><b>420</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:41:23 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>可采集气云 (石灰丝胶溶质)</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.04.21 10:46:03 ] (notify) 目标已枯竭，气云采集器 II自动关闭。
+[ 2013.04.21 10:46:10 ] (notify) 飞船跃迁时无法执行该操作。
+[ 2013.04.21 10:46:58 ] (notify) 请求在3GD6-8 III - RAC光明顶空间站停靠
+[ 2013.04.21 10:46:59 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.04.21 10:47:18 ] (None) 正在从 3GD6-8 III - RAC光明顶 离站进入 3GD6-8 恒星系。
+[ 2013.04.21 10:49:23 ] (notify) 请求在3GD6-8 III - RAC光明顶空间站停靠
+[ 2013.04.21 10:49:23 ] (notify) 正将航向设置为停靠区域
+[ 2013.04.21 10:49:27 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。

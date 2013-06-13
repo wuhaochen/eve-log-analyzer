@@ -1,0 +1,1638 @@
+------------------------------------------------------------
+  游戏记录
+  进程开始: 2013.06.06 19:34:58
+------------------------------------------------------------
+[ 2013.06.06 11:41:22 ] (question) 云中 Wonder希望你加入他们的舰队，你接受吗？
+
+<br><br>
+
+注意：攻击己方舰队队员是未经统合部批准的行为，警方会对此做出回应，你的安全等级也会降低。
+[ 2013.06.06 11:44:41 ] (None) 正在从 C9N-CC I - Moon 2 - CA埃索前哨站 离站进入 C9N-CC 恒星系。
+[ 2013.06.06 11:45:10 ] (notify) 请求在C9N-CC I - Moon 2 - CA埃索前哨站空间站停靠
+[ 2013.06.06 11:45:11 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.06.06 11:49:03 ] (None) 正在从 C9N-CC I - Moon 2 - CA埃索前哨站 离站进入 C9N-CC 恒星系。
+[ 2013.06.06 11:49:21 ] (notify) 舰船正在停止
+[ 2013.06.06 11:49:31 ] (notify) 飞船跃迁时无法执行该操作。
+[ 2013.06.06 11:49:32 ] (notify) 舰船正在停止
+[ 2013.06.06 11:58:55 ] (notify) 目标999未锁定，大型关注能源投射器 I自动关闭。
+[ 2013.06.06 11:58:56 ] (None) 从C9N-CC跳到X-7BIX
+[ 2013.06.06 11:58:57 ] (notify) 目标999未锁定，大型关注能源投射器 I自动关闭。
+[ 2013.06.06 11:59:06 ] (notify) 正在朝向TR07-S
+[ 2013.06.06 11:59:50 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 12:03:02 ] (None) 从X-7BIX跳到TR07-S
+[ 2013.06.06 12:03:03 ] (notify) 目标999未锁定，大型关注能源投射器 I自动关闭。
+[ 2013.06.06 12:03:04 ] (notify) 目标999未锁定，大型关注能源投射器 I自动关闭。
+[ 2013.06.06 12:03:24 ] (notify) 正在朝向AZN-D2
+[ 2013.06.06 12:03:26 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 12:04:05 ] (notify) 正在朝向AZN-D2
+[ 2013.06.06 12:04:37 ] (notify) 正在尝试关闭此装备。请等待，直到该操作完成。
+[ 2013.06.06 12:04:38 ] (notify) 抚慰大型远程壁垒重造装置 I正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为5秒）。
+[ 2013.06.06 12:04:40 ] (hint) 抚慰大型远程壁垒重造装置 I已在使用中
+[ 2013.06.06 12:04:40 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 12:04:40 ] (combat) <color=0xffcc0000><b>1521</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:04:44 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 12:04:44 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 12:04:45 ] (combat) <color=0xffcc0000><b>86</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>阿尔蒙·艾佩萨雷默斯</b><font size=10><color=0x77ffffff> - 幽灵重型导弹 - 命中
+[ 2013.06.06 12:04:49 ] (combat) <color=0xffcc0000><b>205</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:04:49 ] (combat) <color=0xffcc0000><b>346</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:04:49 ] (notify) 目标999999未锁定，抚慰大型远程壁垒重造装置 I自动关闭。
+[ 2013.06.06 12:04:49 ] (notify) 目标999999未锁定，抚慰大型远程壁垒重造装置 I自动关闭。
+[ 2013.06.06 12:04:49 ] (notify) 目标999未锁定，抚慰大型远程壁垒重造装置 I自动关闭。
+[ 2013.06.06 12:04:50 ] (notify) 目标999未锁定，抚慰大型远程壁垒重造装置 I自动关闭。
+[ 2013.06.06 12:04:50 ] (notify) 目标999未锁定，大型关注能源投射器 I自动关闭。
+[ 2013.06.06 12:04:51 ] (combat) <color=0xffcc0000><b>86</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>阿尔蒙·艾佩萨雷默斯</b><font size=10><color=0x77ffffff> - 幽灵重型导弹 - 命中
+[ 2013.06.06 12:04:51 ] (notify) 目标999未锁定，大型关注能源投射器 I自动关闭。
+[ 2013.06.06 12:04:54 ] (combat) <color=0xffcc0000><b>387</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:04:54 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 12:04:55 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:04:55 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:04:56 ] (combat) <color=0xffcc0000><b>86</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>阿尔蒙·艾佩萨雷默斯</b><font size=10><color=0x77ffffff> - 幽灵重型导弹 - 命中
+[ 2013.06.06 12:04:56 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:04:56 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:04:57 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:04:57 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:04:59 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:04:59 ] (combat) <color=0xffcc0000><b>360</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:04:59 ] (combat) <color=0xffcc0000><b>471</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 12:05:00 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:02 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:03 ] (combat) <color=0xffcc0000><b>86</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>阿尔蒙·艾佩萨雷默斯</b><font size=10><color=0x77ffffff> - 幽灵重型导弹 - 命中
+[ 2013.06.06 12:05:04 ] (combat) <color=0xffcc0000><b>227</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:05:04 ] (combat) <color=0xffcc0000><b>196</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:05:04 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:05 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:05 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:06 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:06 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:07 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:07 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:08 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:08 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:09 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:09 ] (combat) <color=0xffcc0000><b>86</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>阿尔蒙·艾佩萨雷默斯</b><font size=10><color=0x77ffffff> - 幽灵重型导弹 - 命中
+[ 2013.06.06 12:05:09 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 12:05:09 ] (combat) <color=0xffcc0000><b>353</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:05:09 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:10 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:10 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:11 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:12 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:12 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:13 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:13 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:14 ] (combat) <color=0xffcc0000><b>86</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>阿尔蒙·艾佩萨雷默斯</b><font size=10><color=0x77ffffff> - 幽灵重型导弹 - 命中
+[ 2013.06.06 12:05:14 ] (combat) <color=0xffcc0000><b>250</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:05:14 ] (combat) <color=0xffcc0000><b>503</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 12:05:14 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:14 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:15 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:16 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:17 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:19 ] (combat) <color=0xffcc0000><b>291</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:05:19 ] (combat) <color=0xffcc0000><b>376</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:05:19 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:20 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:21 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:21 ] (combat) <color=0xffcc0000><b>86</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>阿尔蒙·艾佩萨雷默斯</b><font size=10><color=0x77ffffff> - 幽灵重型导弹 - 命中
+[ 2013.06.06 12:05:21 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:21 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:22 ] (notify) 你正在对付0个目标，已经达到你飞船电子装备的能力极限。
+[ 2013.06.06 12:05:24 ] (combat) <color=0xffcc0000><b>421</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:05:24 ] (combat) <color=0xffcc0000><b>214</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:05:29 ] (combat) <color=0xffcc0000><b>302</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:05:29 ] (combat) <color=0xffcc0000><b>386</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:05:34 ] (combat) <color=0xffcc0000><b>325</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:05:34 ] (combat) <color=0xffcc0000><b>241</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:05:39 ] (combat) <color=0xffcc0000><b>191</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:05:39 ] (combat) <color=0xffcc0000><b>230</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:07:30 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 12:08:29 ] (notify) 正在接近DF的马克瑞级的残骸
+[ 2013.06.06 12:08:36 ] (None) 从TR07-S跳到AZN-D2
+[ 2013.06.06 12:08:51 ] (notify) 正在朝向E-PR0S
+[ 2013.06.06 12:09:07 ] (notify) 正在朝向E-PR0S
+[ 2013.06.06 12:09:30 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 12:10:15 ] (None) 从AZN-D2跳到E-PR0S
+[ 2013.06.06 12:10:31 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:10:31 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:10:32 ] (notify) 正在朝向VNGJ-U
+[ 2013.06.06 12:10:50 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:10:53 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:11:29 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 12:12:21 ] (None) 从E-PR0S跳到VNGJ-U
+[ 2013.06.06 12:12:47 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 12:14:53 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:15:16 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:15:20 ] (notify) 环绕洞庭湖的麻雀的复仇者级（5000m）
+[ 2013.06.06 12:15:44 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:15:45 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:15:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:15:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:15:50 ] (combat) <color=0xffcc0000><b>396</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:15:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:15:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:15:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:00 ] (combat) <color=0xffcc0000><b>445</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:16:00 ] (combat) <color=0xffcc0000><b>573</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:16:00 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:16:05 ] (combat) <color=0xffcc0000><b>65</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:16:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:10 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:16:10 ] (combat) <color=0xffcc0000><b>88</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:16:10 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:16:12 ] (notify) 广播的接收者设为<b>我的队伍</b>
+[ 2013.06.06 12:16:14 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:16:15 ] (combat) <color=0xffcc0000><b>79</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:16:15 ] (combat) <color=0xffcc0000><b>72</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:16:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:15 ] (notify) 广播的接收者设为<b>上级</b>
+[ 2013.06.06 12:16:16 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:16:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:22 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:16:25 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:25 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:16:26 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:18:12 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:19:17 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:19:18 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:19:21 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:19:31 ] (combat) <color=0xffcc0000><b>467</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:19:34 ] (combat) <color=0xffcc0000><b>297</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 12:19:36 ] (combat) <color=0xffcc0000><b>126</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 12:19:39 ] (combat) <color=0xffcc0000><b>70</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:19:41 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:19:44 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:19:46 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:19:48 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>侍僧 II [企业联合体]&lt;R.A.C&gt;(侍僧 II)
+[ 2013.06.06 12:19:49 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:19:51 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:19:54 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:19:56 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:19:57 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:19:59 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:01 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:04 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:06 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:09 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:11 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:14 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:21 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:21 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:20:24 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:26 ] (combat) <color=0xffcc0000><b>51</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:20:29 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:30 ] (notify) 重新集合在云中 Wonder周围
+[ 2013.06.06 12:20:31 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:34 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:36 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:20:39 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:21:04 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:21:09 ] (combat) <color=0xffcc0000><b>119</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:21:14 ] (combat) <color=0xffcc0000><b>50</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:21:19 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:21:24 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:21:29 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:21:34 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:21:39 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:21:44 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:21:49 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:21:53 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:21:59 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:22:04 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:22:09 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:22:12 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:22:12 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:22:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:22:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:22:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:22:30 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:22:44 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:23:04 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:23:04 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:23:04 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:23:04 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:23:06 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:23:08 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:23:11 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:23:44 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:23:49 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:23:54 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:23:59 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:04 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:09 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:22 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 12:24:25 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:40 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:41 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:46 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:46 ] (combat) <color=0xffcc0000><b>678</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:24:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:51 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:24:56 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:25:01 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:25:06 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:25:07 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:25:11 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:25:17 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:25:21 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:25:26 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:25:31 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:25:36 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:26:02 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 12:26:13 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:26:13 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:26:13 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:27:24 ] (notify) 999正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 12:27:28 ] (notify) 999正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 12:27:40 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 12:27:41 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 12:27:42 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 12:27:43 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 12:27:47 ] (notify) 环绕洞庭湖的麻雀的复仇者级（5000m）
+[ 2013.06.06 12:27:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:27:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:05 ] (combat) <color=0xffcc0000><b>323</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:28:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:15 ] (combat) <color=0xffcc0000><b>387</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:28:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:20 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 12:28:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:24 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:28:25 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:25 ] (combat) <color=0xffcc0000><b>174</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:28:27 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:28:28 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:28:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:28:32 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:29:03 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:30:04 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:31:11 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:31:12 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:31:12 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:31:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:31:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:31:45 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:31:48 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:31:49 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:32:01 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:32:22 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:32:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:35 ] (combat) <color=0xffcc0000><b>613</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:32:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:39 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:39 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:40 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:40 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:40 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:44 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:44 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:49 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:49 ] (combat) <color=0xffcc0000><b>362</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 12:32:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:50 ] (combat) <color=0xffcc0000><b>74</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:32:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:54 ] (combat) <color=0xffcc0000><b>50</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:32:54 ] (combat) <color=0xffcc0000><b>84</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:32:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:55 ] (combat) <color=0xffcc0000><b>118</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:32:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:32:59 ] (combat) <color=0xffcc0000><b>77</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:32:59 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:04 ] (combat) <color=0xffcc0000><b>71</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:33:04 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:09 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 12:33:09 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:09 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:10 ] (combat) <color=0xffcc0000><b>73</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:33:13 ] (combat) <color=0xffcc0000><b>34</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>底托勒·泰格门托</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 12:33:14 ] (combat) <color=0xffcc0000><b>94</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:33:14 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:15 ] (combat) <color=0xffcc0000><b>83</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:33:17 ] (combat) <color=0xffcc0000><b>34</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>底托勒·泰格门托</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 12:33:19 ] (combat) <color=0xffcc0000><b>53</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:33:19 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:20 ] (combat) <color=0xffcc0000><b>93</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:33:22 ] (combat) <color=0xffcc0000><b>34</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>底托勒·泰格门托</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 12:33:24 ] (combat) <color=0xffcc0000><b>66</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:33:24 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:25 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:25 ] (combat) <color=0xffcc0000><b>76</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:33:25 ] (combat) <color=0xffcc0000><b>80</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:33:27 ] (combat) <color=0xffcc0000><b>34</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>底托勒·泰格门托</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 12:33:29 ] (combat) <color=0xffcc0000><b>111</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:33:29 ] (combat) <color=0xffcc0000><b>85</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:33:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:30 ] (combat) <color=0xffcc0000><b>98</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:33:32 ] (combat) <color=0xffcc0000><b>34</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>底托勒·泰格门托</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 12:33:34 ] (combat) <color=0xffcc0000><b>81</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:33:34 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:37 ] (combat) <color=0xffcc0000><b>36</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>底托勒·泰格门托</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 12:33:39 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:39 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:40 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:40 ] (combat) <color=0xffcc0000><b>87</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:33:43 ] (combat) <color=0xffcc0000><b>38</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>底托勒·泰格门托</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 12:33:44 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:45 ] (combat) <color=0xffcc0000><b>49</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:33:49 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:33:51 ] (combat) <color=0xffcc0000><b>39</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>底托勒·泰格门托</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 12:33:51 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:34:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:34:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:34:14 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:34:14 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:34:33 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:34:38 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:34:38 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 12:35:03 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:05 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:35:05 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:35:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:08 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:09 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:13 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:14 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:18 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:18 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 12:35:19 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:23 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:24 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:25 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:28 ] (combat) <color=0xffcc0000><b>288</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:35:29 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 12:35:29 ] (combat) <color=0xffcc0000><b>89</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:35:30 ] (combat) <color=0xffcc0000><b>96</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:35:32 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 12:35:33 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:34 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:34 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:35:38 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:39 ] (combat) <color=0xffcc0000><b>51</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:35:40 ] (combat) <color=0xffcc0000><b>97</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:35:43 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:44 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:45 ] (combat) <color=0xffcc0000><b>50</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:35:48 ] (combat) <color=0xffcc0000><b>71</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:35:49 ] (combat) <color=0xffcc0000><b>67</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:35:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:53 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:55 ] (combat) <color=0xffcc0000><b>71</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:35:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:35:58 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:36:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:36:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:36:03 ] (combat) <color=0xffcc0000><b>73</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:36:11 ] (combat) <color=0xffcc0000><b>292</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 致命一击
+[ 2013.06.06 12:36:11 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:36:11 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:36:11 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:36:17 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:36:22 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:38:33 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 12:38:36 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:38:37 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:38:37 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:38:37 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:38:38 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:38:43 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:40:32 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 12:42:22 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 12:42:23 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 12:42:25 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 12:42:26 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 12:42:45 ] (notify) 环绕ooo（2500m）
+[ 2013.06.06 12:42:55 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:42:55 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:42:56 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:42:58 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:43:02 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:43:11 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:44:12 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:45:01 ] (hint) 大型关注能源投射器 I已在使用中
+[ 2013.06.06 12:45:55 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:45:57 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:45:58 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:46:33 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 12:46:40 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 12:47:24 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:47:29 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:47:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:47:40 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:47:41 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:47:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:47:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:47:54 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:24 ] (combat) <color=0xffcc0000><b>301</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:48:25 ] (combat) <color=0xffcc0000><b>359</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:48:27 ] (combat) <color=0xffcc0000><b>294</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:48:29 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:30 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:48:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:31 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:48:31 ] (combat) <color=0xffcc0000><b>310</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:48:32 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:48:34 ] (combat) <color=0xffcc0000><b>253</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:48:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:37 ] (combat) <color=0xffcc0000><b>80</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:48:39 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:40 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:40 ] (combat) <color=0xffcc0000><b>74</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:48:42 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:43 ] (notify) 环绕奥内罗斯级（2500m）
+[ 2013.06.06 12:48:44 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:47 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:47 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:49 ] (combat) <color=0xffcc0000><b>72</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:48:50 ] (combat) <color=0xffcc0000><b>93</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:48:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:52 ] (combat) <color=0xffcc0000><b>94</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:48:52 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:54 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:48:54 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:48:54 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:55 ] (combat) <color=0xffcc0000><b>67</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:48:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:57 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:57 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:48:59 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:49:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:49:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:49:07 ] (notify) 环绕洞庭湖的麻雀的复仇者级（2500m）
+[ 2013.06.06 12:49:24 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:49:26 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:49:27 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:49:38 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 12:50:05 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 12:50:14 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:15 ] (combat) <color=0xffcc0000><b>448</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 致命一击
+[ 2013.06.06 12:50:16 ] (combat) <color=0xffcc0000><b>84</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:50:16 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:19 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:20 ] (combat) <color=0xffcc0000><b>109</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:50:21 ] (combat) <color=0xffcc0000><b>132</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 12:50:21 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:50:24 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:25 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:25 ] (combat) <color=0xffcc0000><b>66</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:50:26 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:26 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:29 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:31 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:31 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:34 ] (combat) <color=0xffcc0000><b>72</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:50:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:35 ] (combat) <color=0xffcc0000><b>52</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:50:36 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:36 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:39 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:43 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:43 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:43 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:43 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:44 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:50:44 ] (combat) <color=0xffcc0000><b>66</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:50:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:46 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:46 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:49 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:51 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:51 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:54 ] (combat) <color=0xffcc0000><b>71</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:50:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:56 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:56 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:50:59 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:01 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:01 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:04 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:51:05 ] (combat) <color=0xffcc0000><b>62</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:51:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:06 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:06 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:09 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:10 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:51:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:11 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:11 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:14 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:16 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:16 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:19 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:20 ] (combat) <color=0xffcc0000><b>89</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:51:20 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:51:21 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:21 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:24 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:25 ] (combat) <color=0xffcc0000><b>85</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:51:26 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:26 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:31 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:31 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:36 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:36 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:40 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:40 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:41 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:41 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:51:58 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 12:52:08 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:52:08 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:52:09 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:52:10 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:52:11 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:52:11 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:53:36 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:53:38 ] (notify) 999正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 12:53:38 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:53:39 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 12:53:43 ] (notify) 环绕洞庭湖的麻雀的复仇者级（2500m）
+[ 2013.06.06 12:53:59 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:00 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:54:01 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:54:01 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:54:01 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:03 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:54:04 ] (combat) <color=0xffcc0000><b>517</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:54:06 ] (combat) <color=0xffcc0000><b>56</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:54:07 ] (combat) <color=0xffcc0000><b>55</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:54:09 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:12 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:12 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:12 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:54:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:16 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:17 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:17 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:19 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:21 ] (combat) <color=0xffcc0000><b>61</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:54:22 ] (combat) <color=0xffcc0000><b>69</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:54:22 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:24 ] (combat) <color=0xffcc0000><b>291</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 致命一击
+[ 2013.06.06 12:54:26 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:27 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:27 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:29 ] (combat) <color=0xffcc0000><b>293</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 致命一击
+[ 2013.06.06 12:54:31 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:32 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:32 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:34 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 12:54:34 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:36 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 12:54:36 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:37 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 12:54:37 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 12:54:37 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:37 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:40 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:54:41 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:42 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 12:54:42 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:42 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:43 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 12:54:47 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:54:47 ] (combat) <color=0xffcc0000><b>68</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 12:55:31 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 12:55:53 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:57:25 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:57:26 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:57:28 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:57:31 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:58:02 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 12:58:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:58:08 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 12:58:09 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 12:58:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:58:11 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 12:58:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:58:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:14 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:16 ] (combat) <color=0xffcc0000><b>713</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 12:59:16 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:19 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:21 ] (combat) <color=0xffcc0000><b>218</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:59:23 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 12:59:24 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:26 ] (combat) <color=0xffcc0000><b>98</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:59:29 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:31 ] (combat) <color=0xffcc0000><b>94</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:59:34 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:36 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:36 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:39 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:40 ] (combat) <color=0xffcc0000><b>114</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 12:59:44 ] (combat) <color=0xffcc0000><b>54</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:59:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:49 ] (combat) <color=0xffcc0000><b>56</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:59:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:54 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:55 ] (combat) <color=0xffcc0000><b>85</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 12:59:56 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 12:59:57 ] (combat) <color=0xffcc0000><b>55</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 12:59:59 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:01 ] (combat) <color=0xffcc0000><b>130</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:00:02 ] (combat) <color=0xffcc0000><b>79</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:00:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:05 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:00:06 ] (combat) <color=0xffcc0000><b>72</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:00:07 ] (combat) <color=0xffcc0000><b>67</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:00:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:11 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:12 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:00:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:16 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:00:21 ] (combat) <color=0xffcc0000><b>102</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:00:21 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:21 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:21 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:22 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:22 ] (combat) <color=0xffcc0000><b>66</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:00:25 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:26 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:27 ] (combat) <color=0xffcc0000><b>140</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:00:28 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 13:00:29 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 13:00:30 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 13:00:30 ] (combat) <color=0xffcc0000><b>292</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 致命一击
+[ 2013.06.06 13:00:31 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 13:00:31 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:32 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:35 ] (combat) <color=0xffcc0000><b>57</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:00:36 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:37 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:40 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:00:41 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:42 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:47 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:50 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 13:00:50 ] (combat) <color=0xffcc0000><b>61</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:00:52 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:55 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 13:00:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:00:56 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 13:00:57 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:01:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:01:02 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:01:06 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:01:07 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:01:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:01:25 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 13:01:27 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 13:01:32 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 13:01:34 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 13:02:46 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:02:51 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:02:56 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:03:01 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:03:05 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>底托勒·泰格门托</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 13:03:06 ] (combat) <color=0xffcc0000><b>301</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:03:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:03:26 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 13:03:39 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:04:29 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 13:06:10 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:06:15 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:06:16 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:06:17 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:06:18 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:06:19 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:06:28 ] (notify) 环绕我不刷钱（5000m）
+[ 2013.06.06 13:07:05 ] (combat) <color=0xffcc0000><b>386</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:07:06 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:07:07 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:08 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:07:08 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:07:08 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:07:08 ] (combat) <color=0xffcc0000><b>664</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:07:09 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:07:10 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:07:10 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:10 ] (combat) <color=0xffcc0000><b>78</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:12 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:13 ] (combat) <color=0xffcc0000><b>186</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:07:13 ] (combat) <color=0xffcc0000><b>203</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:13 ] (combat) <color=0xffcc0000><b>187</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:07:15 ] (combat) <color=0xffcc0000><b>70</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:07:15 ] (combat) <color=0xffcc0000><b>90</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:17 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:18 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:07:18 ] (combat) <color=0xffcc0000><b>203</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:18 ] (combat) <color=0xffcc0000><b>260</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:07:20 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:20 ] (combat) <color=0xffcc0000><b>87</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:22 ] (combat) <color=0xffcc0000><b>62</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:07:23 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:07:23 ] (combat) <color=0xffcc0000><b>258</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:23 ] (combat) <color=0xffcc0000><b>317</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:07:25 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:25 ] (combat) <color=0xffcc0000><b>119</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:07:27 ] (combat) <color=0xffcc0000><b>83</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:28 ] (combat) <color=0xffcc0000><b>211</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:28 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:07:28 ] (combat) <color=0xffcc0000><b>188</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:07:30 ] (combat) <color=0xffcc0000><b>80</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:32 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:33 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:07:33 ] (combat) <color=0xffcc0000><b>177</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:07:33 ] (combat) <color=0xffcc0000><b>176</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:07:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:37 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:38 ] (combat) <color=0xffcc0000><b>176</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:07:38 ] (combat) <color=0xffcc0000><b>776</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 致命一击
+[ 2013.06.06 13:07:38 ] (combat) <color=0xffcc0000><b>204</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:40 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:40 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:42 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:43 ] (combat) <color=0xffcc0000><b>212</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:43 ] (combat) <color=0xffcc0000><b>245</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:43 ] (combat) <color=0xffcc0000><b>261</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:07:45 ] (combat) <color=0xffcc0000><b>52</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:07:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:48 ] (combat) <color=0xffcc0000><b>309</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:07:48 ] (combat) <color=0xffcc0000><b>303</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:07:48 ] (combat) <color=0xffcc0000><b>197</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:50 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:53 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:07:53 ] (combat) <color=0xffcc0000><b>258</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:07:53 ] (combat) <color=0xffcc0000><b>172</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:07:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:07:58 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:07:58 ] (combat) <color=0xffcc0000><b>160</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:07:58 ] (combat) <color=0xffcc0000><b>333</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:08:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:08:00 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:08:03 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:08:03 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:08:03 ] (combat) <color=0xffcc0000><b>220</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:08:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:08:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:08:08 ] (combat) <color=0xffcc0000><b>281</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:08:08 ] (combat) <color=0xffcc0000><b>201</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:08:08 ] (combat) <color=0xffcc0000><b>139</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:08:48 ] (notify) 无人机与999交战
+[ 2013.06.06 13:09:04 ] (notify) 无人机与999交战
+[ 2013.06.06 13:09:59 ] (notify) 环绕洞庭湖的麻雀的复仇者级（5000m）
+[ 2013.06.06 13:10:02 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:10:03 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:10:06 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:10:07 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:10:07 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:10:07 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:10:19 ] (notify) 重新集合在云中 Wonder周围
+[ 2013.06.06 13:10:24 ] (notify) 环绕ooo（5000m）
+[ 2013.06.06 13:10:31 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:10:32 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:10:58 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:10:59 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:10:59 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:10:59 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:10:59 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:11:11 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:12:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 13:12:34 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:12:35 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:12:35 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:13:07 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:13:08 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:13:38 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>夕之尘埃 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:13:39 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>夕之尘埃 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:13:40 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>夕之尘埃 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:13:40 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>夕之尘埃 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:13:40 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>夕之尘埃 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:13:41 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>夕之尘埃 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:13:42 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>夕之尘埃 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:14:52 ] (notify) 舰船正在停止
+[ 2013.06.06 13:15:45 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 13:18:25 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 13:19:48 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 13:19:51 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:19:51 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:19:53 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:19:56 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 13:19:57 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:19:57 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:19:57 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:20:02 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:20:02 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:20:02 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:20:07 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:20:07 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:20:07 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:20:07 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 13:20:07 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 13:20:08 ] (notify) 圣卒级正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 13:20:09 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 13:20:10 ] (notify) 圣卒级正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 13:20:11 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:20:12 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:12 ] (combat) <color=0xffcc0000><b>144</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:20:12 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:20:12 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:20:13 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:14 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:16 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:17 ] (combat) <color=0xffcc0000><b>735</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:20:17 ] (combat) <color=0xffcc0000><b>251</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:20:17 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:20:17 ] (combat) <color=0xffcc0000><b>120</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:20:18 ] (combat) <color=0xffcc0000><b>292</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:20:19 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:19 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:20 ] (combat) <color=0xffcc0000><b>84</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:22 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:22 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:22 ] (combat) <color=0xffcc0000><b>37</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:22 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 13:20:22 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:23 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:24 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:24 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:24 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:25 ] (combat) <color=0xffcc0000><b>130</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:20:26 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:27 ] (combat) <color=0xffcc0000><b>247</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:27 ] (combat) <color=0xffcc0000><b>77</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:27 ] (combat) <color=0xffcc0000><b>28</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:20:27 ] (combat) <color=0xffcc0000><b>44</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:20:28 ] (combat) <color=0xffcc0000><b>56</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:20:29 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:29 ] (combat) <color=0xffcc0000><b>210</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:29 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:29 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:30 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:31 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:31 ] (combat) <color=0xffcc0000><b>74</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:32 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:32 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:32 ] (combat) <color=0xffcc0000><b>45</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:20:33 ] (combat) <color=0xffcc0000><b>47</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:20:33 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:34 ] (combat) <color=0xffcc0000><b>264</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:20:34 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:34 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:34 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:35 ] (combat) <color=0xffcc0000><b>248</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:37 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:37 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:37 ] (combat) <color=0xffcc0000><b>179</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:20:37 ] (combat) <color=0xffcc0000><b>61</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:20:37 ] (combat) <color=0xffcc0000><b>60</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:20:38 ] (combat) <color=0xffcc0000><b>25</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:20:38 ] (combat) <color=0xffcc0000><b>87</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:39 ] (combat) <color=0xffcc0000><b>174</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:20:39 ] (combat) <color=0xffcc0000><b>146</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:20:39 ] (combat) <color=0xffcc0000><b>63</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:20:39 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:40 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:41 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:41 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:41 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 13:20:42 ] (combat) <color=0xffcc0000><b>229</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:42 ] (combat) <color=0xffcc0000><b>50</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:20:43 ] (combat) <color=0xffcc0000><b>29</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:20:43 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:44 ] (combat) <color=0xffcc0000><b>168</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:20:44 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:44 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:44 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:45 ] (combat) <color=0xffcc0000><b>168</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:20:46 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:46 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:47 ] (combat) <color=0xffcc0000><b>142</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:20:47 ] (combat) <color=0xffcc0000><b>81</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:48 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:49 ] (combat) <color=0xffcc0000><b>173</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:20:49 ] (combat) <color=0xffcc0000><b>271</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:20:49 ] (combat) <color=0xffcc0000><b>59</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:20:49 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:50 ] (combat) <color=0xffcc0000><b>298</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:20:51 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:20:51 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:20:52 ] (combat) <color=0xffcc0000><b>95</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:20:52 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:07 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:07 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:07 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:07 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:12 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:12 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:12 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:12 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:17 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:17 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:17 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:17 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:22 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:22 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:22 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:22 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:27 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:27 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:27 ] (combat) <color=0xffcc0000><b>346</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:22:27 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:32 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:32 ] (combat) <color=0xffcc0000><b>143</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:22:32 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:32 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:37 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:37 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:37 ] (combat) <color=0xffcc0000><b>318</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:22:37 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:39 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:43 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:43 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:43 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:43 ] (combat) <color=0xffcc0000><b>136</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:22:44 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:22:48 ] (combat) <color=0xffcc0000><b>138</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:22:48 ] (combat) <color=0xffcc0000><b>248</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:22:48 ] (combat) <color=0xffcc0000><b>207</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:22:49 ] (combat) <color=0xffcc0000><b>225</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:22:52 ] (combat) <color=0xffcc0000><b>148</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:22:52 ] (combat) <color=0xffcc0000><b>228</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:22:52 ] (combat) <color=0xffcc0000><b>154</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:22:54 ] (combat) <color=0xffcc0000><b>179</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:22:57 ] (combat) <color=0xffcc0000><b>301</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:22:57 ] (combat) <color=0xffcc0000><b>232</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:22:57 ] (combat) <color=0xffcc0000><b>200</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:22:59 ] (combat) <color=0xffcc0000><b>292</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:23:02 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:23:02 ] (combat) <color=0xffcc0000><b>159</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:23:02 ] (combat) <color=0xffcc0000><b>161</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:23:04 ] (combat) <color=0xffcc0000><b>249</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:23:07 ] (combat) <color=0xffcc0000><b>304</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:23:07 ] (combat) <color=0xffcc0000><b>187</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:23:07 ] (combat) <color=0xffcc0000><b>137</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:23:09 ] (combat) <color=0xffcc0000><b>316</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:23:12 ] (combat) <color=0xffcc0000><b>185</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:23:12 ] (combat) <color=0xffcc0000><b>148</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:23:12 ] (combat) <color=0xffcc0000><b>161</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:23:37 ] (notify) 舰船正在停止
+[ 2013.06.06 13:23:42 ] (notify) 环绕洞庭湖的麻雀的复仇者级（30000m）
+[ 2013.06.06 13:23:58 ] (notify) 舰船正在停止
+[ 2013.06.06 13:24:10 ] (notify) 环绕萨沙战斗堡垒（2500m）
+[ 2013.06.06 13:26:36 ] (notify) 环绕洞庭湖的麻雀的复仇者级（5000m）
+[ 2013.06.06 13:26:36 ] (notify) 重新集合在云中 Wonder周围
+[ 2013.06.06 13:26:40 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 13:26:43 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 13:26:45 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 13:26:45 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 13:26:46 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 13:26:47 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 13:26:49 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](狂热级)
+[ 2013.06.06 13:27:26 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 13:27:26 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 13:27:28 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 13:27:29 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 13:27:29 ] (combat) <color=0xffcc0000><b>784</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:27:30 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 13:27:34 ] (combat) <color=0xffcc0000><b>256</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:27:39 ] (combat) <color=0xffcc0000><b>340</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:27:44 ] (combat) <color=0xffcc0000><b>200</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:27:49 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:27:54 ] (combat) <color=0xffcc0000><b>134</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:27:59 ] (combat) <color=0xffcc0000><b>300</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:28:04 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:28:09 ] (combat) <color=0xffcc0000><b>183</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:28:14 ] (combat) <color=0xffcc0000><b>282</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:28:49 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:28:49 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:28:51 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:28:53 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:29:21 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:29:22 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:29:29 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:29:30 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:29:33 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:29:42 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:31:09 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 13:32:28 ] (notify) 999正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 13:32:29 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:32:31 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:32:37 ] (notify) 我不刷钱正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 13:32:41 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 13:32:42 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 13:32:43 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 13:32:44 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>云中 Wonder [企业联合体]&lt;R.A.C&gt;(洛基级)
+[ 2013.06.06 13:33:29 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:34:24 ] (notify) 重新集合在云中 Wonder周围
+[ 2013.06.06 13:34:39 ] (combat) <color=0xffcc0000><b>1281</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:34:39 ] (combat) <color=0xffcc0000><b>285</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:34:39 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:34:39 ] (combat) <color=0xffcc0000><b>305</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:34:39 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:34:44 ] (combat) <color=0xffcc0000><b>239</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:34:44 ] (combat) <color=0xffcc0000><b>158</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:34:44 ] (combat) <color=0xffcc0000><b>215</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:34:44 ] (combat) <color=0xffcc0000><b>271</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:34:44 ] (combat) <color=0xffcc0000><b>165</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:34:49 ] (combat) <color=0xffcc0000><b>141</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:34:49 ] (combat) <color=0xffcc0000><b>319</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:34:49 ] (combat) <color=0xffcc0000><b>370</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:34:49 ] (combat) <color=0xffcc0000><b>197</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:34:49 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:34:54 ] (combat) <color=0xffcc0000><b>189</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:34:54 ] (combat) <color=0xffcc0000><b>170</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:34:54 ] (combat) <color=0xffcc0000><b>148</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:34:54 ] (combat) <color=0xffcc0000><b>131</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:34:54 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:34:59 ] (combat) <color=0xffcc0000><b>215</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:34:59 ] (combat) <color=0xffcc0000><b>322</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:34:59 ] (combat) <color=0xffcc0000><b>326</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:34:59 ] (combat) <color=0xffcc0000><b>187</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:34:59 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:35:04 ] (combat) <color=0xffcc0000><b>171</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:35:04 ] (combat) <color=0xffcc0000><b>305</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:35:04 ] (combat) <color=0xffcc0000><b>258</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:35:04 ] (combat) <color=0xffcc0000><b>205</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:35:04 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:35:09 ] (combat) <color=0xffcc0000><b>382</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:35:09 ] (combat) <color=0xffcc0000><b>237</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:35:09 ] (combat) <color=0xffcc0000><b>176</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:35:09 ] (combat) <color=0xffcc0000><b>195</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:35:09 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:35:14 ] (combat) <color=0xffcc0000><b>301</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:35:14 ] (combat) <color=0xffcc0000><b>167</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:35:14 ] (combat) <color=0xffcc0000><b>266</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:35:14 ] (combat) <color=0xffcc0000><b>381</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:35:14 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:35:19 ] (combat) <color=0xffcc0000><b>340</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:35:19 ] (combat) <color=0xffcc0000><b>225</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:35:19 ] (combat) <color=0xffcc0000><b>376</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:35:19 ] (combat) <color=0xffcc0000><b>376</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:35:19 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:35:24 ] (combat) <color=0xffcc0000><b>265</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:35:24 ] (combat) <color=0xffcc0000><b>148</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:35:24 ] (combat) <color=0xffcc0000><b>155</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:35:24 ] (combat) <color=0xffcc0000><b>172</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:35:24 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:35:29 ] (combat) <color=0xffcc0000><b>325</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:35:29 ] (combat) <color=0xffcc0000><b>170</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:35:29 ] (combat) <color=0xffcc0000><b>306</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:35:29 ] (combat) <color=0xffcc0000><b>158</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:35:29 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:35:34 ] (combat) <color=0xffcc0000><b>154</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:35:34 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:35:34 ] (combat) <color=0xffcc0000><b>320</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:35:34 ] (combat) <color=0xffcc0000><b>149</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:35:34 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:35:39 ] (combat) <color=0xffcc0000><b>182</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:35:39 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:35:39 ] (combat) <color=0xffcc0000><b>218</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:35:39 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:36:04 ] (notify) 环绕萨沙战斗堡垒（2500m）
+[ 2013.06.06 13:36:13 ] (notify) 环绕小行星殖民地精炼厂（2500m）
+[ 2013.06.06 13:38:04 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:38:04 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:38:05 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:38:09 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:38:09 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:38:10 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:38:50 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:38:50 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:38:51 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:38:51 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:39:42 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 13:40:40 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:40:41 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:40:44 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:41:23 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:42:29 ] (combat) <color=0xffcc0000><b>1260</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:42:29 ] (combat) <color=0xffcc0000><b>296</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:42:29 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:42:34 ] (combat) <color=0xffcc0000><b>226</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:42:34 ] (combat) <color=0xffcc0000><b>153</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:42:34 ] (combat) <color=0xffcc0000><b>230</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:42:39 ] (combat) <color=0xffcc0000><b>234</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:42:39 ] (combat) <color=0xffcc0000><b>176</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:42:39 ] (combat) <color=0xffcc0000><b>360</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:42:43 ] (combat) <color=0xffcc0000><b>278</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:42:43 ] (combat) <color=0xffcc0000><b>234</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:42:44 ] (combat) <color=0xffcc0000><b>133</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:42:49 ] (combat) <color=0xffcc0000><b>195</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:42:50 ] (combat) <color=0xffcc0000><b>245</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:42:53 ] (combat) <color=0xffcc0000><b>264</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:42:55 ] (combat) <color=0xffcc0000><b>159</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:43:00 ] (combat) <color=0xffcc0000><b>214</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:43:00 ] (combat) <color=0xffcc0000><b>175</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:43:05 ] (combat) <color=0xffcc0000><b>325</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:43:05 ] (combat) <color=0xffcc0000><b>269</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:43:10 ] (combat) <color=0xffcc0000><b>330</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:43:10 ] (combat) <color=0xffcc0000><b>135</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:43:15 ] (combat) <color=0xffcc0000><b>273</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:43:15 ] (combat) <color=0xffcc0000><b>166</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:43:20 ] (combat) <color=0xffcc0000><b>159</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:43:20 ] (combat) <color=0xffcc0000><b>251</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:43:25 ] (combat) <color=0xffcc0000><b>302</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:43:30 ] (combat) <color=0xffcc0000><b>166</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:44:04 ] (notify) 正在接近萨沙矿石精炼厂
+[ 2013.06.06 13:44:04 ] (notify) 正在接近萨沙矿石精炼厂
+[ 2013.06.06 13:44:04 ] (notify) 请稍等...
+[ 2013.06.06 13:44:04 ] (notify) 正在接近萨沙矿石精炼厂
+[ 2013.06.06 13:44:04 ] (notify) 请稍等...
+[ 2013.06.06 13:44:04 ] (notify) 正在接近萨沙矿石精炼厂
+[ 2013.06.06 13:44:04 ] (notify) 请稍等...
+[ 2013.06.06 13:44:38 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 13:46:23 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:46:25 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:46:29 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:46:31 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:46:41 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 13:46:45 ] (notify) 奥内罗斯级正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 13:47:09 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:47:18 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 13:48:16 ] (notify) 环绕小行星殖民站（2500m）
+[ 2013.06.06 13:48:30 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:48:30 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:48:30 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:48:35 ] (combat) <color=0xffcc0000><b>990</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:48:35 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:48:35 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:48:40 ] (combat) <color=0xffcc0000><b>246</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:48:40 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:48:40 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:48:46 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:48:46 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:48:46 ] (combat) <color=0xffcc0000><b>293</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:48:50 ] (combat) <color=0xffcc0000><b>265</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:48:50 ] (combat) <color=0xffcc0000><b>288</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:48:50 ] (combat) <color=0xffcc0000><b>258</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:48:55 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:48:55 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:48:55 ] (combat) <color=0xffcc0000><b>132</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:49:00 ] (combat) <color=0xffcc0000><b>262</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:49:00 ] (combat) <color=0xffcc0000><b>255</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:49:00 ] (combat) <color=0xffcc0000><b>221</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:49:05 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:49:05 ] (combat) <color=0xffcc0000><b>167</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:49:05 ] (combat) <color=0xffcc0000><b>242</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:49:10 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:49:10 ] (combat) <color=0xffcc0000><b>193</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:49:10 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:49:15 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:49:15 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:49:15 ] (combat) <color=0xffcc0000><b>246</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:49:20 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:49:20 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:49:20 ] (combat) <color=0xffcc0000><b>224</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:49:25 ] (combat) <color=0xffcc0000><b>315</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:49:25 ] (combat) <color=0xffcc0000><b>314</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:49:25 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:49:30 ] (combat) <color=0xffcc0000><b>281</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:49:30 ] (combat) <color=0xffcc0000><b>343</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 13:49:30 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:49:34 ] (notify) 环绕ooo（2500m）
+[ 2013.06.06 13:49:35 ] (combat) <color=0xffcc0000><b>226</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:49:35 ] (combat) <color=0xffcc0000><b>151</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:49:35 ] (combat) <color=0xffcc0000><b>276</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:49:40 ] (combat) <color=0xffcc0000><b>134</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 13:49:40 ] (combat) <color=0xffcc0000><b>268</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:49:40 ] (combat) <color=0xffcc0000><b>197</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:49:46 ] (combat) <color=0xffcc0000><b>209</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 13:49:46 ] (combat) <color=0xffcc0000><b>261</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:49:46 ] (combat) <color=0xffcc0000><b>182</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 13:49:50 ] (combat) <color=0xffcc0000><b>294</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:49:50 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 13:49:50 ] (combat) <color=0xffcc0000><b>305</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:50:16 ] (notify) 环绕小行星殖民站（5000m）
+[ 2013.06.06 13:50:32 ] (notify) 重新集合在云中 Wonder周围
+[ 2013.06.06 13:50:42 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 13:52:06 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 13:52:16 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:52:17 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:52:17 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:52:18 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:52:29 ] (notify) 抚慰大型远程壁垒重造装置 I正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为3秒）。
+[ 2013.06.06 13:52:57 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:54:10 ] (combat) <color=0xffcc0000><b>997</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:54:15 ] (combat) <color=0xffcc0000><b>280</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 13:54:48 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:54:49 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:54:49 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:54:52 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:55:15 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 13:55:28 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 13:57:18 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 13:57:29 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:57:30 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:59:25 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 13:59:27 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:59:28 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:59:28 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 13:59:33 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 13:59:43 ] (combat) v星夜v完全没有打中你
+[ 2013.06.06 13:59:47 ] (combat) v星夜v完全没有打中你
+[ 2013.06.06 13:59:56 ] (notify) 环绕999999（5000m）
+[ 2013.06.06 14:01:30 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:30 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:30 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:35 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:35 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:35 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:43 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:43 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:43 ] (combat) <color=0xffcc0000><b>964</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:01:45 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:45 ] (combat) <color=0xffcc0000><b>382</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:01:45 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:51 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:51 ] (combat) <color=0xffcc0000><b>215</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:01:51 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:54 ] (notify) 环绕小行星殖民站（5000m）
+[ 2013.06.06 14:01:56 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:01:56 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:02:02 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:02:02 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:02:05 ] (combat) <color=0xffcc0000><b>190</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:02:05 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:02:11 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:02:16 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:02:21 ] (combat) <color=0xffcc0000><b>264</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:02:26 ] (combat) <color=0xffcc0000><b>183</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:02:31 ] (combat) <color=0xffcc0000><b>334</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 14:04:09 ] (notify) 你正在处理10个目标，这是你现有技能所能达到的最大数。
+[ 2013.06.06 14:04:29 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:04:31 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:04:33 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:04:33 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:05:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>孔雀羚 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 14:05:55 ] (notify) 重新集合在云中 Wonder周围
+[ 2013.06.06 14:06:22 ] (notify) 环绕999999（5000m）
+[ 2013.06.06 14:06:46 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:06:46 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:06:48 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>v星夜v [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:07:18 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:08:07 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:09:43 ] (notify) 抚慰大型远程壁垒重造装置 I正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为3秒）。
+[ 2013.06.06 14:09:57 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 14:10:09 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:10:09 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:10:11 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:10:11 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:10:11 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:10:54 ] (notify) 请求在VNGJ-U V - Moon 1 - VNGJ-待命名空间站停靠
+[ 2013.06.06 14:10:55 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.06.06 14:11:17 ] (None) 正在从 VNGJ-U V - Moon 1 - VNGJ-待命名 离站进入 VNGJ-U 恒星系。
+[ 2013.06.06 14:13:24 ] (notify) 正在朝向小行星殖民地精炼厂
+[ 2013.06.06 14:13:24 ] (notify) 由于跃迁引擎无法瞄准选定的物体，所以你不能将船头转向该物体，也不能跃迁至那里。
+[ 2013.06.06 14:14:25 ] (notify) 正在接近VNGJ-U V - Moon 1 - VNGJ-待命名
+[ 2013.06.06 14:15:05 ] (notify) 请求在VNGJ-U V - Moon 1 - VNGJ-待命名空间站停靠
+[ 2013.06.06 14:15:05 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。
+[ 2013.06.06 14:15:27 ] (notify) 与云中 Wonder的交易已完成。
+[ 2013.06.06 14:15:44 ] (None) 正在从 VNGJ-U V - Moon 1 - VNGJ-待命名 离站进入 VNGJ-U 恒星系。
+[ 2013.06.06 14:16:04 ] (notify) 舰船正在停止
+[ 2013.06.06 14:17:40 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 14:19:04 ] (notify) 我不刷钱正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 14:19:05 ] (notify) 圣卒级正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 14:19:06 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:19:07 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:19:08 ] (notify) 圣卒级正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 14:19:09 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:19:17 ] (notify) 环绕萨沙战斗堡垒（2500m）
+[ 2013.06.06 14:19:22 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 14:19:22 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 14:19:26 ] (notify) 影无痕的圣卒级正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 14:19:27 ] (notify) 影无痕的圣卒级正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 14:22:30 ] (notify) 环绕小行星殖民站（5000m）
+[ 2013.06.06 14:23:40 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:23:40 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:23:43 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:23:44 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:24:29 ] (combat) <color=0xffcc0000><b>627</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 14:24:29 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:24:34 ] (combat) <color=0xffcc0000><b>812</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 14:24:39 ] (combat) <color=0xffcc0000><b>138</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:24:44 ] (combat) <color=0xffcc0000><b>83</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:24:47 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:24:49 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:24:52 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:24:56 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:25:01 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:25:06 ] (combat) <color=0xffcc0000><b>316</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 14:25:11 ] (combat) <color=0xffcc0000><b>150</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:25:16 ] (combat) <color=0xffcc0000><b>191</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:25:21 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:25:27 ] (combat) <color=0xffcc0000><b>199</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:25:31 ] (combat) <color=0xffcc0000><b>161</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:25:32 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:26:20 ] (notify) 环绕999999（2500m）
+[ 2013.06.06 14:26:27 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:26:27 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:26:27 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:27:00 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:27:07 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:27:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:27:40 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:30:11 ] (notify) 跟随云中 Wonder跃迁
+[ 2013.06.06 14:30:25 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:30:26 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:30:26 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:30:26 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:31:59 ] (notify) 舰船正在停止
+[ 2013.06.06 14:32:18 ] (notify) 舰船正在停止
+[ 2013.06.06 14:36:09 ] (notify) 999正处于跃迁状态，它阻止了你的感应器对其进行目标锁定。
+[ 2013.06.06 14:36:10 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:36:13 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:36:20 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 14:36:21 ] (combat) <color=0xffcc0000><b>92</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:21 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 14:36:21 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 14:36:22 ] (combat) <color=0xffcc0000><b>92</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:22 ] (combat) <color=0xffcc0000><b>92</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:22 ] (combat) <color=0xffcc0000><b>92</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:22 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 14:36:22 ] (combat) <color=0xffcc0000><b>92</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:26 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 14:36:26 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:27 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:28 ] (combat) <color=0xffcc0000><b>92</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:28 ] (combat) <color=0xffcc0000><b>92</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:28 ] (combat) <color=0xffcc0000><b>92</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:28 ] (combat) <color=0xffcc0000><b>92</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:29 ] (combat) <color=0xffcc0000><b>92</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:29 ] (combat) 伦因·梅顿完全没有打中你
+[ 2013.06.06 14:36:31 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:32 ] (notify) 环绕洞庭湖的麻雀的复仇者级（5000m）
+[ 2013.06.06 14:36:32 ] (combat) <color=0xffcc0000><b>324</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:36:34 ] (combat) <color=0xffcc0000><b>92</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:34 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:34 ] (combat) <color=0xffcc0000><b>214</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>伦因·梅顿</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 14:36:35 ] (combat) <color=0xffcc0000><b>93</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:35 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:36 ] (combat) <color=0xffcc0000><b>93</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:36 ] (combat) <color=0xffcc0000><b>93</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:36 ] (combat) <color=0xffcc0000><b>93</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:36 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:37 ] (combat) <color=0xffcc0000><b>68</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:36:39 ] (combat) <color=0xffcc0000><b>80</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:36:40 ] (combat) <color=0xffcc0000><b>81</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:36:41 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:42 ] (combat) <color=0xffcc0000><b>71</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:36:43 ] (combat) <color=0xffcc0000><b>93</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:44 ] (combat) <color=0xffcc0000><b>93</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:44 ] (combat) <color=0xffcc0000><b>103</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:36:45 ] (combat) <color=0xffcc0000><b>93</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:45 ] (combat) <color=0xffcc0000><b>93</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:45 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:46 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:47 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:48 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:51 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:51 ] (combat) <color=0xffcc0000><b>72</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:36:52 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:53 ] (combat) <color=0xffcc0000><b>71</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:53 ] (combat) <color=0xffcc0000><b>71</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:53 ] (combat) <color=0xffcc0000><b>71</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:36:55 ] (combat) <color=0xffcc0000><b>71</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:36:55 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:56 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:36:57 ] (combat) <color=0xffcc0000><b>117</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:36:59 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:37:00 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:37:01 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:37:02 ] (combat) <color=0xffcc0000><b>69</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:37:02 ] (combat) <color=0xffcc0000><b>104</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:37:03 ] (combat) <color=0xffcc0000><b>70</b><color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>塔玛·赛尔贝鲁</b><font size=10><color=0x77ffffff> - 女妖鱼雷 - 命中
+[ 2013.06.06 14:37:04 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:37:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:37:06 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:37:10 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:37:12 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:39:49 ] (notify) 抚慰大型远程壁垒重造装置 I正在使用中，你无法手动将其关闭。它将在1秒后自动关闭（其运转周期为5秒）。
+[ 2013.06.06 14:39:49 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:39:54 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:39:54 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:39:54 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:39:55 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:39:58 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:40:16 ] (notify) 正在尝试关闭此装备。请等待，直到该操作完成。
+[ 2013.06.06 14:40:17 ] (notify) 抚慰大型远程壁垒重造装置 I正在使用中，你无法手动将其关闭。它将在1秒后自动关闭（其运转周期为5秒）。
+[ 2013.06.06 14:40:17 ] (notify) 抚慰大型远程壁垒重造装置 I正在使用中，你无法手动将其关闭。它将在不到一秒后自动关闭（其运转周期为5秒）。
+[ 2013.06.06 14:40:19 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:40:21 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:40:22 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:40:50 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:40:54 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:40:54 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 14:40:56 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 14:41:00 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>IB [企业联合体]&lt;R.A.C&gt;(奥内罗斯级)
+[ 2013.06.06 14:41:00 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:41:22 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 14:41:28 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 14:42:42 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:42:43 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:42:44 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:42:44 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>萨沙指挥官</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:42:44 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:43:10 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:43:11 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:43:14 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:43:40 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:43:43 ] (combat) <color=0xffcc0000><b>699</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 14:44:00 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:44:07 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:44:49 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:44:50 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:44:53 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:44:53 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:44:54 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>琪露诺的完全公式 [N.C.A](圣卒级)
+[ 2013.06.06 14:45:50 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:45:51 ] (combat) 伦因·梅顿完全没有打中你
+[ 2013.06.06 14:45:54 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:45:57 ] (combat) 伦因·梅顿完全没有打中你
+[ 2013.06.06 14:46:00 ] (combat) 伦因·梅顿完全没有打中你
+[ 2013.06.06 14:46:02 ] (combat) 伦因·梅顿完全没有打中你
+[ 2013.06.06 14:46:05 ] (combat) <color=0xffcc0000><b>590</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>伦因·梅顿</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:46:07 ] (combat) <color=0xffcc0000><b>401</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>伦因·梅顿</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:46:10 ] (combat) <color=0xffcc0000><b>151</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>伦因·梅顿</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:46:12 ] (combat) <color=0xffcc0000><b>170</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>伦因·梅顿</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 14:46:15 ] (combat) <color=0xffcc0000><b>111</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>伦因·梅顿</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:46:17 ] (combat) <color=0xffcc0000><b>88</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>伦因·梅顿</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:46:44 ] (notify) 跟随小光哥跃迁
+[ 2013.06.06 14:46:54 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:46:55 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:46:56 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:48:19 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:48:20 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:48:20 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:20 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:20 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:28 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:28 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:28 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:32 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 14:48:32 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:32 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:32 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:33 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 14:48:35 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>你！
+[ 2013.06.06 14:48:37 ] (combat) <color=0xffcc0000><b>142</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:48:37 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:37 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:42 ] (combat) <color=0xffcc0000><b>272</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 14:48:42 ] (combat) <color=0xffcc0000><b>52</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:48:42 ] (combat) 歇玛耶尔·美杜拉完全没有打中你
+[ 2013.06.06 14:48:47 ] (combat) <color=0xffcc0000><b>54</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 14:48:47 ] (combat) <color=0xffcc0000><b>42</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 14:48:47 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:48:47 ] (notify) 环绕洞庭湖的麻雀的复仇者级（2500m）
+[ 2013.06.06 14:48:49 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:48:49 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:48:49 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:48:51 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:48:51 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:48:51 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:48:51 ] (combat) <color=0xffcc0000><b>47</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 14:48:51 ] (combat) <color=0xffcc0000><b>27</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:48:53 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:48:54 ] (combat) <color=0xffcc0000><b>181</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:48:54 ] (combat) <color=0xffcc0000><b>58</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:48:55 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:48:55 ] (combat) <color=0xffcc0000><b>228</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:48:55 ] (combat) <color=0xffcc0000><b>78</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:48:56 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:48:56 ] (combat) <color=0xffcc0000><b>34</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:48:56 ] (combat) <color=0xffcc0000><b>56</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 14:48:56 ] (combat) <color=0xffcc0000><b>27</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:48:57 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:48:58 ] (combat) <color=0xffcc0000><b>210</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:48:59 ] (combat) <color=0xffcc0000><b>156</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:48:59 ] (combat) <color=0xffcc0000><b>51</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:49:00 ] (combat) <color=0xffcc0000><b>162</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:49:01 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:49:01 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:49:01 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:49:01 ] (combat) <color=0xffcc0000><b>58</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 14:49:01 ] (combat) <color=0xffcc0000><b>43</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 14:49:01 ] (combat) <color=0xffcc0000><b>66</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:49:04 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:49:05 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:49:05 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:49:06 ] (combat) <color=0xffcc0000><b>189</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:49:07 ] (combat) <color=0xffcc0000><b>138</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:49:07 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:49:07 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:49:08 ] (combat) <color=0xffcc0000><b>22</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:49:08 ] (combat) <color=0xffcc0000><b>20</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:49:08 ] (combat) <color=0xffcc0000><b>49</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:49:10 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:49:11 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:49:11 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:49:11 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:49:12 ] (combat) 罗密·瑟勒马斯完全没有打中你
+[ 2013.06.06 14:49:12 ] (combat) <color=0xffcc0000><b>81</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>尤斯塔·罗本</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:49:12 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:49:13 ] (combat) <color=0xffcc0000><b>35</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 命中
+[ 2013.06.06 14:49:13 ] (combat) <color=0xffcc0000><b>43</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>歇玛耶尔·美杜拉</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 14:49:13 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:49:14 ] (combat) <color=0xffcc0000><b>320</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 强力一击
+[ 2013.06.06 14:49:15 ] (combat) <color=0xffcc0000><b>146</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 轻轻擦过
+[ 2013.06.06 14:49:15 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:49:16 ] (combat) <color=0xffcc0000><b>178</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 擦过
+[ 2013.06.06 14:49:17 ] (combat) <color=0xffcc0000><b>257</b> <color=0x77ffffff><font size=10>来自</font> <b><color=0xffffffff>罗密·瑟勒马斯</b><font size=10><color=0x77ffffff> - 穿透
+[ 2013.06.06 14:49:17 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:49:17 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:49:20 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 14:49:24 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>歇玛耶尔·美杜拉</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>新祭小队长 [企业联合体]&lt;R.A.C&gt;(守卫级)
+[ 2013.06.06 14:49:30 ] (notify) 环绕小行星殖民地精炼厂（10000m）
+[ 2013.06.06 14:50:06 ] (notify) 环绕小行星殖民站（2500m）
+[ 2013.06.06 14:50:30 ] (combat) 尤斯塔·罗本完全没有打中你
+[ 2013.06.06 14:51:30 ] (notify) 环绕小行星殖民站（5000m）
+[ 2013.06.06 14:54:16 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:54:17 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:54:18 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:54:18 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:54:20 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:55:06 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>影无痕 [企业联合体]&lt;R.A.C&gt;(圣卒级)
+[ 2013.06.06 14:56:36 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:56:36 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:56:37 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>小光哥 [企业联合体]&lt;R.A.C&gt;(帕拉丁级)
+[ 2013.06.06 14:57:12 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:57:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>塔玛·赛尔贝鲁</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:57:13 ] (combat) <color=0xffffffff><b>跃迁干扰行为</b> <color=0x77ffffff><font size=10>从</font> <color=0xffffffff><b>奥加·海波西斯</b> <color=0x77ffffff><font size=10>到 <b><color=0xffffffff></font>洞庭湖的麻雀 [企业联合体]&lt;R.A.C&gt;(复仇者级)
+[ 2013.06.06 14:58:59 ] (notify) 正在接近萨沙矿石精炼厂
+[ 2013.06.06 14:59:37 ] (notify) 跟随小光哥跃迁
+[ 2013.06.06 14:59:48 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 14:59:49 ] (notify) 目标是坚不可摧的。
+[ 2013.06.06 15:01:08 ] (notify) 请求在VNGJ-U V - Moon 1 - VNGJ-待命名空间站停靠
+[ 2013.06.06 15:01:08 ] (notify) 正将航向设置为停靠区域
+[ 2013.06.06 15:01:17 ] (notify) 入坞请求已被接受。你的飞船将被牵引进空间站。

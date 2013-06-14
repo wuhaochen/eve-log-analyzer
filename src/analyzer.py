@@ -5,10 +5,10 @@ import sys
 import re
 from datetime import datetime
 
-logname = "../data/20130527_095916.txt"
-resultname = "result.txt"
+logname = "../data/20130522_142810.txt"
+resultname = "../result.txt"
 
-type_pattern = r'\((.+)\)'
+type_pattern = r'\((\w+)\)'
 
 fromword = u"来自"
 toword = u"对"
@@ -112,12 +112,11 @@ def process_combat_msg(line,campaign):
         point = match.group(1)
         dirc = match.group(2)
         enemy = match.group(3)
-        if dirc.decode('utf-8') == fromword:
-            campaign.damage_receive(enemy,int(point))
-        elif dirc.decode('utf-8') == toword:
-            campaign.damage_to(enemy,int(point))
+        if dirc == fromword:
+            campaign.damage_receive(enemy.encode('utf-8'),int(point))
+        elif dirc == toword:
+            campaign.damage_to(enemy.encode('utf-8'),int(point))
     else:
-        line = line.decode('utf-8')
         miss_pattern = u"\\) ([\\s\\S]*)"
         miss_pattern += missword
         miss_pattern += u"([\\s\\S]*)\n$"
@@ -149,6 +148,6 @@ for line in file(logname):
     if match :
         type = match.group(1)
         if type in process_function:
-            process_function[type](line,current_campaign)
+            process_function[type](line.decode('utf-8'),current_campaign)
 
 current_campaign.write_to_file(resultname)
